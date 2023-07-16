@@ -1,7 +1,8 @@
 <h1 align="center">Hi 👋, I'm Shubhranshi.</h1>
 <h3 align="center">Currently pursuing a degree in Computer Science.</h3>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=shubhranshii" alt="shubhranshii" /></a> </p>
+[![trophy](https://github-profile-trophy.vercel.app/?username=shubhranshii&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
+
 
 - 🌱 I’m currently learning **python programming language and DSA.**
 
